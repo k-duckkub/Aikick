@@ -1,0 +1,10 @@
+._*
+.DS_Store
+__pycache__/
+*.blend1
+node_modules/
+dist/
+.vercel/
+superdev/assets/vendor/
+.vercel
+.env*
